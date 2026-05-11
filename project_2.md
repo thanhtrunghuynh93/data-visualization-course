@@ -1,4 +1,4 @@
-# Project 2 — Interactive Data Visualization with Python Shiny
+# Project 2 — Data Stories: Building Interactive Dashboards with Python Shiny
 
 ## 1. Project Details
 
@@ -45,7 +45,7 @@ Additionally, you will need to deploy our shiny app on [shinyapps.io](https://ww
 
 Submit the following:
 
-- **Write-up (under 500 words).** A short document covering your dataset, the question you are answering, why it matters, and why the data is challenging to visualize.
+- **Proposal write-up (under 500 words).** A short document covering your dataset, the question you are answering, why it matters, and why the data is challenging to visualize.
 - **Wireframe sketch.** A draft layout of your dashboard — drawn in PowerPoint, Excel, draw.io, or by hand. Annotate each chart, filter, and component to indicate what data it shows and how it behaves (filtering, interaction, cross-filtering, etc.).
 - **Presentation slides** covering:
   - Initial project plan
