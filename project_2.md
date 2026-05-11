@@ -18,19 +18,42 @@ The project should go beyond static charts and basic dashboards. Aim for a more 
 
 Projects must be implemented primarily in Python and must be reproducible and well documented.
 
+### Project Questions
+
+In this project, the expected output is a dashboard, which is basically a collection of charts which is arranged and designed in a logical manner. You will need to build this dashboard with Python Shiny. More examples of what you can build with python Shiny can be found here.
+
+This project is open-ended, you can select any publicly available dataset on the Internet. After that, think of an interesting question you can answer with this dataset and build a dashboard to guide the viewer through your story with this dataset. For example, you can find dataset to answer real-world questions like:
+
+- What are the demographics of voters in the US presidential elections?
+- How do income levels vary across different regions or demographics in …?
+- What is the correlation between education levels and income in …?
+- How has the prevalence of certain diseases changed over time?
+- What are the key factors influencing life expectancy in different countries?
+- How are carbon emissions distributed globally, and how have they changed over the years?
+- What is the correlation between deforestation and wildlife population decline?
+- What are the peak times for user engagement on different social media platforms?
+- How do education levels correlate with job opportunities in different fields?
+- What is the distribution of student performance in standardized tests?
+
+Your dashboard should have at least 5 charts, and you should use at least 3 types of charts.
+
+Additionally, you will need to deploy our shiny app on [shinyapps.io](https://www.shinyapps.io/). We believe that the free option offered on the website will be sufficient for this course.
+
 ## 2. Deadlines
 
 ### Proposal — Due 18/05
 
-Submit:
+Submit the following:
 
-Presentation slides, includes
-- Initial project plan
-- Dataset description
-- Planned visualization and analytical methods
-- Link to your GitHub repository
+- **Write-up (under 500 words).** A short document covering your dataset, the question you are answering, why it matters, and why the data is challenging to visualize.
+- **Wireframe sketch.** A draft layout of your dashboard — drawn in PowerPoint, Excel, draw.io, or by hand. Annotate each chart, filter, and component to indicate what data it shows and how it behaves (filtering, interaction, cross-filtering, etc.).
+- **Presentation slides** covering:
+  - Initial project plan
+  - Dataset description
+  - Planned visualization and analytical methods
+  - Link to your GitHub repository
 
-Each team will also give an in-class presentation (5 minutes).
+Each team will give an in-class presentation (5 minutes).
 
 ### Final Submission & Presentation — Due 07/06
 
@@ -46,45 +69,41 @@ Each team will also give an in-class presentation (8 minutes) with a live demo.
 
 ### 3.1 Proposal
 
-The proposal should cover:
+The proposal consists of three components: a write-up, a wireframe, and a short presentation. Together they should answer *what* you are building, *why* it matters, and *how* you plan to build it.
 
-**Project description.** A short summary of the idea and goals.
+#### Write-up (under 500 words)
 
-**Motivation.** Explain:
+Cover:
 
-- Why the project is interesting
-- What problem it solves
-- Why the chosen dataset or topic matters
+- **Project description.** A short summary of the idea, goals, and the question you are answering.
+- **Motivation.** Why the project is interesting, what problem it addresses, and why the dataset or topic matters.
+- **Dataset description.** Data source, collection method, structure, and challenges or limitations.
+- **Visualization challenge.** Why this data is non-trivial to visualize — e.g. dimensionality, scale, temporal/spatial structure, sparsity, or mixed data types.
 
-**Dataset description.** Describe:
+#### Wireframe
 
-- Data source
-- How the data is collected
-- Dataset structure
-- Challenges or limitations of the data
+A sketched layout of your dashboard, drawn in PowerPoint, Excel, draw.io, or by hand. It should communicate the planned structure of the app without needing to be polished. For each chart, filter, or component, annotate:
 
-**Planned features.** Outline the intended:
+- The chart type and the data it presents
+- The interactive behavior (filtering, brushing, cross-filtering, tooltips, linked views, etc.)
+- How the component fits into the overall story or analytical flow
 
-- Visualization techniques
-- Interactive components
-- Analytical or ML components
-- Dashboard structure
+#### Presentation slides
 
-**Technologies.** List the tools and libraries you plan to use, for example:
+Slides should summarize:
 
-- Python Shiny
-- Plotly
-- Pandas
-- Scikit-learn
-- GeoPandas
-- Altair
-- PyDeck
+- Initial project plan and dashboard story
+- Dataset description
+- Planned visualization techniques, interactions, and analytical/ML methods
+- Technologies and libraries (e.g. Python Shiny, Plotly, Pandas, Scikit-learn, GeoPandas, Altair, PyDeck)
+- Development plan with task allocation per team member
+- Link to your GitHub repository
 
-**Development plan.** A timeline with task allocation per team member.
+#### GitHub repository
 
-**GitHub repository.** A public repo containing:
+A public repo containing:
 
-- The proposal
+- The proposal write-up and wireframe
 - Data files or data-collection scripts
 - Ongoing project progress
 - Documentation
