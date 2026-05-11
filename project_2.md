@@ -37,7 +37,7 @@ This project is open-ended, you can select any publicly available dataset on the
 
 Your dashboard should have at least 5 charts, and you should use at least 3 types of charts.
 
-Additionally, you will need to deploy our shiny app on [shinyapps.io](https://www.shinyapps.io/). We believe that the free option offered on the website will be sufficient for this course.
+Additionally, you will need to deploy your shiny app on [shinyapps.io](https://www.shinyapps.io/). We believe that the free option offered on the website will be sufficient for this course.
 
 ## 2. Deadlines
 
