@@ -24,11 +24,11 @@ Projects must be implemented primarily in Python and must be reproducible and we
 
 Submit:
 
-Project proposal (1 page), includes
-- Link to your GitHub repository
+Presentation slides, includes
 - Initial project plan
 - Dataset description
 - Planned visualization and analytical methods
+- Link to your GitHub repository
 
 Each team will also give an in-class presentation (5 minutes).
 
@@ -36,9 +36,8 @@ Each team will also give an in-class presentation (5 minutes).
 
 Submit:
 
-- Python Shiny application
-- Source code
-- Final report
+- Source code (in main branch of the provided Git)
+- Final report (up to 6 pages), written in LaTEX
 - Presentation slides
 
 Each team will also give an in-class presentation (8 minutes) with a live demo.
