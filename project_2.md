@@ -24,13 +24,15 @@ Projects must be implemented primarily in Python and must be reproducible and we
 
 Submit:
 
-- Project proposal
+Project proposal (1 page), includes
 - Link to your GitHub repository
 - Initial project plan
 - Dataset description
 - Planned visualization and analytical methods
 
-### Final Submission & Presentation — Due 01/06
+Each team will also give an in-class presentation (5 minutes).
+
+### Final Submission & Presentation — Due 07/06
 
 Submit:
 
@@ -146,9 +148,9 @@ Demonstrate the application live during the presentation.
 
 | Category | Percentage |
 | --- | --- |
-| Proposal | 15% |
-| Final Project & Write-up | 50% |
+| Proposal | 25% |
 | Presentation & Demo | 35% |
+| Final Project & Write-up | 40% |
 
 ## 5. Evaluation Criteria
 
